@@ -3,7 +3,7 @@
     "apps": [],
     "details": [{
       "appID": "6JTC2J8AXT.ru.avito.app",
-      "paths": ["*"]
+      "paths": ["/*"]
     }]
   }
 }
