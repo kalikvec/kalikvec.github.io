@@ -6,4 +6,7 @@
       "paths": ["*"]
     }]
   }
+  "webcredentials":{
+    "apps":["6JTC2J8AXT.ru.avito.app"]
+  }
 }
