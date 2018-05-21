@@ -1,7 +1,11 @@
-"applinks": {
-	"apps": [],
-	"details": [{
-	  "appID": "5PHGGKL9UQ.ru.avito.app",
-	  "paths": ["*"]
-	}]
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T5TQ36Q2SQ.com.branch.sdk.TestBed",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
