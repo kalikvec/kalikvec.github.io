@@ -3,8 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "5PHGGKL9UQ.ru.avito.app",
-        "paths": ["*"]
+        "appID": “5PHGGKL9UQ.ru.avito.app",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
