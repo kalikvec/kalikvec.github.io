@@ -1,14 +1,14 @@
 {
   "activitycontinuation": {
     "apps": [
-      "6JTC2J8AXT.ru.avito.app"
+      "5PHGGKL9UQ.ru.avito.app"
     ]
   },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "6JTC2J8AXT.ru.avito.app",
+        "appID": "5PHGGKL9UQ.ru.avito.app",
         "paths": [
           "*"
         ]
